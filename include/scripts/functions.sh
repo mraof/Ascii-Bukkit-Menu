@@ -218,9 +218,9 @@ focus  down
 select Bukkit_Log 
 #resize -5
 split -v
-focus down
+focus bottom
 select Menu
-focus  bottom
+focus  down
 resize -30
 EOF
 }
